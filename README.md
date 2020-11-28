@@ -10,6 +10,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franksalas&show_icons=true" alt="franksalas" /></p>
 
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/frank-salas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/frank-salas/" height="30" width="30" /></a>
-</p>
