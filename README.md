@@ -8,9 +8,9 @@
 -->
 
 
-<a href="">
+<a href="https://github.com/franksalas">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=franksalas&count_private=true" />
 </a>
-<a href="">
+<a href="https://github.com/franksalas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franksalas&layout=compact" />
 </a>
