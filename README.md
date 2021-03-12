@@ -9,7 +9,7 @@
 
 
 <a href="https://github.com/franksalas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franksalas&hide=contribs,prs&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franksalas&hide=contribs&count_private=true" />
 </a>
 <a href="https://github.com/franksalas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franksalas&layout=compact" />
