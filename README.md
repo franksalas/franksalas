@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Salas</h1>
 
-- 🌱 I’m currently learning ~~**Neural Networks & NLP**~~  ~~Algorithms because `apparently` I can't traverse a binary search tree.~~
+- 🌱 I’m currently learning ~~**Neural Networks & NLP**~~  ~~Algorithms because apparently I can't traverse a binary search tree.~~ stuff..
 - 📝 I ~~regulary~~ sometimes write articles on [sal.as](https://sal.as/)
 - ⚡ Fun fact: I **❤️ 🍕 & 🍉red bull..**
 <!--
