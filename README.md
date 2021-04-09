@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Salas</h1>
 
-- 🌱 I’m currently taking Udacity's Data Engineer nanodegree
+- 🌱 I’m currently taking [Udacity's Data Engineer nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
 - 📝 I ~~regulary~~ sometimes write articles on [sal.as](https://sal.as/)
 - ⚡ Fun fact: I **❤️ 🍕 & 🍉red bull..**
 <!--
