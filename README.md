@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Salas</h1>
 
-- 📚 Currently studing for the [AWS Solutions Architect Associate Exam](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ep=sec&sec=assoc_saa)
+- 📚 Currently studying for the [AWS Solutions Architect Associate Exam](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ep=sec&sec=assoc_saa)
 - 📝 I ~~regulary,  sometimes~~ every now and then write articles and tutorials on [sal.as](https://sal.as/)
 - ⚡ Fun fact: No more 🍕 & 🍞, only pastor 🌮.
 <!--
