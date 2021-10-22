@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Salas</h1>
 
-- 📚 Currently studying ~~Infomatica~~, sorry :monocle_face: Informatica
+- 📚 Currently studying ~~Infomatica~~, sorry :monocle_face: Informatica.
 - 📝 I ~~regulary,  sometimes~~ every now and then write articles and tutorials on [sal.as](https://sal.as/)
 - ⚡ Fun fact: No more 🍕 & 🍞, only pastor 🌮.
 <!--
