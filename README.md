@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Salas</h1>
 
-- 📚 Currently studying Informatica :poop:.
+- 📚 Currently studying   :poop:.
 - 📝 I ~~regulary,  sometimes~~ every now and then write articles and tutorials on [sal.as](https://sal.as/)
 - ⚡ Fun fact: No more 🍕 & 🍞, only pastor 🌮.
 <!--
